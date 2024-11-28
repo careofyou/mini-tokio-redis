@@ -1,0 +1,12 @@
+/Users/zxc/projects/rust-redis/my-redis/target/debug/deps/liblibc-15013c63c0441106.rmeta: /Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/lib.rs /Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/macros.rs /Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/fixed_width_ints.rs /Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/unix/mod.rs /Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/unix/bsd/mod.rs /Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/unix/bsd/apple/mod.rs /Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/unix/bsd/apple/b64/mod.rs /Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/unix/bsd/apple/b64/aarch64/mod.rs
+
+/Users/zxc/projects/rust-redis/my-redis/target/debug/deps/libc-15013c63c0441106.d: /Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/lib.rs /Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/macros.rs /Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/fixed_width_ints.rs /Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/unix/mod.rs /Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/unix/bsd/mod.rs /Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/unix/bsd/apple/mod.rs /Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/unix/bsd/apple/b64/mod.rs /Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/unix/bsd/apple/b64/aarch64/mod.rs
+
+/Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/lib.rs:
+/Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/macros.rs:
+/Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/fixed_width_ints.rs:
+/Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/unix/mod.rs:
+/Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/unix/bsd/mod.rs:
+/Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/unix/bsd/apple/mod.rs:
+/Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/unix/bsd/apple/b64/mod.rs:
+/Users/zxc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.165/src/unix/bsd/apple/b64/aarch64/mod.rs:
